@@ -2,13 +2,40 @@
 
 h1 {
     text-align: center;
-    font-size: 15px;
+    font-size: 70px;
     font-family: 'Pacifico', cursive;
 }
-form {
-    text-align: right;
-  }
-    
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+
+}
+
+h3 {
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Pacifico', cursive;
+}
+
+.blackButton{ 
+    background-color: #ffffff;
+    color: #000000;
+}
+
+div {
+    text-align: left;
+    font-family: 'Pacifico';
+}
+
+p {
+    text-align: center;
+}
+
+
+
+
     
    
 
